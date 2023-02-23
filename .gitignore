@@ -1,0 +1,8 @@
+/.vscode
+/app.txt
+/database.py
+/signup
+/static
+/templates
+/venv
+/__pycache__
